@@ -1,0 +1,23 @@
+{
+  "browser": true,
+  "node": true,
+  "bitwise": true,
+  "camelcase": true,
+  "curly": true,
+  "expr": true,
+  "esnext": true,
+  "immed": true,
+  "indent": 2,
+  "maxlen": 200,
+  "newcap": true,
+  "noarg": true,
+  "undef": true,
+  "globals": {
+    "reqwest": true,
+    "define": true,
+    "module": true,
+    "React": true,
+    "ReactDOM": true,
+    "ReactRouter": true
+  }
+}
